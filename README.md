@@ -1,2 +1,2 @@
 # Pepsi
-Link: https://Hasdrey.github.io/Pepsi
+Link: https://hasdrey.github.io/Pepsi/
